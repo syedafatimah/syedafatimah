@@ -20,8 +20,15 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=syedafatimah&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Syeda Fatima's Github Stats">
+</div>
 
-  
+<br>
+
+-🔭 I’m currently looking for an internship opportunities in software development.
+
+-🌱 I’m currently enhancing my basic development skills and learning new techs.
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
